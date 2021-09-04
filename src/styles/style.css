@@ -1,0 +1,15 @@
+.page-wrapper {
+  width: 991px;
+}
+
+.single-post {
+  width: 290px;
+}
+
+.single-post-header {
+  height: 73px;
+}
+
+.single-post-body {
+  height: 208px;
+}
